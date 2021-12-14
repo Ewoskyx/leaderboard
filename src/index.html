@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Leaderboard App</title>
+  </head>
+  <body>
+    <section class="vh-100 px-5 container-fluid">
+        <h1 class="h1 py-3">Leaderboard</h1>
+        <div class="row align-items-start justify-content-center">
+            <div class="col-6">
+                <div class="row justify-content-between">
+                    <h3 class="col-8">Recent Scores</h3>
+                    <button class="btn btn-info col-2 me-3" type="button">Refresh</button>
+                </div>
+                <div class="row mt-2">
+                    <ul class="list-group scoreBoard">
+                       
+                    </ul>
+                </div>
+            </div>
+            <div class="col-6">
+                <h3>Add your score</h3>
+                <form action="submit" class="form d-flex flex-column justify-content-center gap-3 w-50">
+                    <input type="text" placeholder="your name" id="nameInput" required>
+                    <input type="text" placeholder="your score" id="scoreInput" required>
+                    <input type="submit" value="Submit" class="submit-btn btn btn-success">
+                </form>
+            </div>
+        </div>
+    </section>
+  </body>
+</html>
