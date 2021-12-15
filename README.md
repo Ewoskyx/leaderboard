@@ -40,7 +40,7 @@ Not required
 
 
 
-## Authors
+## Author
 
 👤 **Evren Ersoy**
 
