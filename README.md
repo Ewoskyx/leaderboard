@@ -4,9 +4,8 @@
 
 > Evren Ersoy  Leaderboard app project. An app for using API
 
-![screenshot blank](./td-1.PNG)<br />
-![screenshot added tasks](./td-2.PNG)<br />
-![screenshot checked tasks](./td-3.PNG)<br />
+![screenshot](./lb-1.PNG)<br />
+
 
 Additional description about the project and its features.
 
@@ -23,7 +22,7 @@ Additional description about the project and its features.
 ## Live Demo
 
 You can check the link below for the live demo.
-N/A
+https://ewoskyx.github.io/leaderboard/
 
 
 ## Getting Started
@@ -41,7 +40,7 @@ Not required
 
 
 
-## Authors
+## Author
 
 👤 **Evren Ersoy**
 
