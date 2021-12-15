@@ -22,7 +22,7 @@ Additional description about the project and its features.
 ## Live Demo
 
 You can check the link below for the live demo.
-N/A
+https://ewoskyx.github.io/leaderboard/
 
 
 ## Getting Started
