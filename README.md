@@ -7,7 +7,8 @@
 ![screenshot](./lb-1.PNG)<br />
 
 
-Additional description about the project and its features.
+Additional description of the project and its features.
+Microverse project series: A leaderboard to set some scores of the players and display the standings.
 
 ## Built With
 
